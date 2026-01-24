@@ -23,3 +23,4 @@ I got a lot of passions stored in my brain, and sometimes, they turn into rants.
 
 ### Stats, for Nerds
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aangar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/aangar/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aangar)](https://github.com/aangar)
