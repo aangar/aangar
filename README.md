@@ -11,9 +11,8 @@
 ### My Mission
 Currently employed as an SWE, I work across various projects with a simple mission: make them better to use,
 improve their current capabilities, or bring new ideas to life.
-As an avid "start a project and abandon it after a while" engineer, I found that I liked doing a bunch of things;
-anything from little bug fixes to things I've never even thought about before.
-You never know how an idea will do until you see it come together ... sorta like working on my motorcycle or Legos!
+Nothing is more interesting than learning something entirely foreign and then taking off with it!
+There's endless knowledge, and I kinda want to know it all.
 
 ### Quick Fixations 
 Mission aside - you'll typically find me losing my mind talking about my cats, motorcycle,
