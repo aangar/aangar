@@ -1,10 +1,10 @@
 ## Hi, I'm AJ, thanks for stopping by!
 
 ## Rundown of What I Work With:
-Languages: JavaScript/React/NextJS, Python, Rust, C, Java
-Scripting: bash, shell, zsh
-OS'es: Arch Linux, Proxmox, Ubuntu, Debian, Endeavour, Win10, or most any Linux Server :D
-Technologies: Docker, AWS, Github (lol), Github Actions
+- Languages: JavaScript/React/NextJS, Python, Rust, C, Java
+- Technologies: Docker, AWS, Github (lol), Github Actions
+- Scripting: bash, shell, zsh
+- OS'es: Arch Linux, Proxmox, Ubuntu, Debian, Endeavour, Win10, or most any Linux Server :D
 
 ... but I'm always open to something new! After all, you can never stop learning.
 
