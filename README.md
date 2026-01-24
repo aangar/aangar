@@ -1,6 +1,6 @@
 ## Hi, I'm AJ, thanks for stopping by!
 
-## Rundown of What I Work With:
+### Rundown of What I Work With:
 - Languages: JavaScript/React/NextJS, Python, Rust, C, Java
 - Technologies: Docker, AWS, Github (lol), Github Actions
 - Scripting: bash, shell, zsh
