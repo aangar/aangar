@@ -24,6 +24,6 @@ Feel free to message me on [my LinkedIn](https://www.linkedin.com/in/aj-angarita
 me know you came from GitHub!
 
 ### Stats, for Nerds
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aangar&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/aangar/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aangar&show_icons=true&rank_icon=github&&ring_color=#0070f2theme=dark#gh-dark-mode-only)](https://github.com/aangar/)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aangar&layout=compact&theme=dark)](https://github.com/aangar)
