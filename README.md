@@ -20,8 +20,3 @@ or half paying attenion because a loud vehicle peeled out within hearing distanc
 ### Want to Get in Contact?
 Feel free to message me on [my LinkedIn](https://www.linkedin.com/in/aj-angarita-234545221/) at any time, and let 
 me know you came from GitHub!
-
-### Stats, for Nerds
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aangar&show_icons=true&rank_icon=github&ring_color=0070f2&theme=dark#gh-dark-mode-only)](https://github.com/aangar/)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aangar&layout=compact&theme=dark)](https://github.com/aangar)
