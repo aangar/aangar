@@ -16,6 +16,10 @@ I typically enjoy getting thrown into new work and figuring out how it works tog
 ### Quick Fixations 
 Mission aside - you'll typically find me losing my mind talking about my cats, motorcycle,
 or half paying attenion because a loud vehicle peeled out within hearing distance.
+<br/>
+I'm also a big fan of selfhosting whatever I can. Old hardware is pretty capable when you host a bunch of
+common services on around twelve LXC's!
+
 
 ### Want to Get in Contact?
 Feel free to message me on [my LinkedIn](https://www.linkedin.com/in/aj-angarita-234545221/) at any time, and let 
